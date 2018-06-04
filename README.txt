@@ -1,4 +1,1 @@
-meu primeiro sitema git
-
-atlerção no readme motherfucker
-S
+meu primeiro sistema git atualizado
